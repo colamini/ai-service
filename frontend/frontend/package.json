@@ -1,0 +1,20 @@
+
+{
+  "name": "vue-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  }
+}
