@@ -1,0 +1,22 @@
+{
+  "name": "vue-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.7.16",
+    "vue-advanced-chat": "^2.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.15",
+    "css-loader": "^5.2.7",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.7.16",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "serve": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service build"
+  }
+}

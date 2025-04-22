@@ -1,3 +1,0 @@
-
-This is a sample document. It will be used to build a FAISS index for querying.
-Feel free to add more content here for testing.
